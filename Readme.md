@@ -54,8 +54,5 @@ Click on this [link](https://learn.microsoft.com/en-us/training/modules/intro-to
 > Please excute the above code with admin access
 
 
-
-
-
-
+https://github.com/Komalpirot/Power-BI-Report-Dashboard/blob/7c3d92022272eacbacf4df6d4f00fa12c5f4a72b/src/index.html
     
